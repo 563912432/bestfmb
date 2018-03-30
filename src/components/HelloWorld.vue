@@ -20,7 +20,7 @@
 import footer from '@/components/footer'
 import header from '@/components/header'
 
-const Host = 'http://www.meili.com/Api/Pinyin/'
+const Host = '/Api/Pinyin/'
 
 export default {
   name: 'HelloWorld',

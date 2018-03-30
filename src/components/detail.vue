@@ -12,7 +12,7 @@ export default {
   name: 'd',
   data () {
     return {
-      host: 'http://www.meili.com/',
+      host: '/',
       cid: '',
       loading: false,
       img: null,
